@@ -27,7 +27,7 @@ object day12 {
         ).toMap
     }
     def GetRegions(input: Map[(Int,Int), List[(Int,Int)]],toVisit:List[(Int, Int)],  unvisited:List[(Int,Int)]): List[List[(Int,Int)]] = {
-        
+        if toVisit   
         
         
         
